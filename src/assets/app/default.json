@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Upcoming Deadlines",
+      "color": "Blue",
+      "quantity": 4,
+      "tasks": [
+        {
+          "name": "Study for [Subject A] midterm",
+          "deadline": "2024-07-15T23:59",
+          "isPriority": true,
+          "isComplete": false
+        },
+        {
+          "name": "Submit [Project B] for [Course C]",
+          "deadline": "2024-07-16T23:59",
+          "isPriority": true,
+          "isComplete": false
+        },
+        {
+          "name": "Buy household supplies",
+          "deadline": "2024-07-17T18:00",
+          "isPriority": false,
+          "isComplete": true
+        },
+        {
+          "name": "Organize study plan for next week",
+          "deadline": "2024-07-21T12:00",
+          "isPriority": false,
+          "isComplete": false
+        }
+      ]
+    },
+    {
+      "name": "Long-Term Goals",
+      "color": "Red",
+      "quantity": 2,
+      "tasks": [
+        {
+          "name": "Prepare for job interview",
+          "deadline": "2030-01-01T00:00",
+          "isPriority": true,
+          "isComplete": false
+        },
+        {
+          "name": "Finish reading assigned book for [Subject D]",
+          "deadline": "2024-12-01T10:00",
+          "isPriority": false,
+          "isComplete": false
+        }
+      ]
+    },
+    {
+      "name": "Personal Well-being",
+      "color": "Green",
+      "quantity": 2,
+      "tasks": [
+        {
+          "name": "Exercise outdoors",
+          "deadline": "2024-07-18T19:00",
+          "isPriority": false,
+          "isComplete": false
+        },
+        {
+          "name": "Catch up with family",
+          "deadline": "2024-07-20T15:00",
+          "isPriority": false,
+          "isComplete": false
+        }
+      ]
+    }
+  ]
+  
